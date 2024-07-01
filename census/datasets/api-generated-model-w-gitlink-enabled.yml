@@ -1,8 +1,8 @@
 ---
 dataset:api-generated-model-w-gitlink-enabled:
   type: sql
-  name: API Generated Model w/ Gitlink enabled
+  name: API Generated Model w GitLink enabled and updated
   query: SELECT * FROM "users"
-  description: This is a description set through the API.
+  description: This is a description set through the API that is being updated.
   icon:
   connection: data_warehouse:redshift-2
