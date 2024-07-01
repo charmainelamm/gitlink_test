@@ -1,0 +1,8 @@
+---
+dataset:simple-model:
+  type: sql
+  name: Simple Model
+  query: SELECT 1 as id
+  description:
+  icon:
+  connection: data_warehouse:redshift-2

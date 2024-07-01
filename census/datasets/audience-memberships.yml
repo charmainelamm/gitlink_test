@@ -1,0 +1,8 @@
+---
+dataset:audience-memberships:
+  type: sql
+  name: Audience Memberships
+  query: SELECT * FROM USERS
+  description:
+  icon:
+  connection: data_warehouse:redshift-2

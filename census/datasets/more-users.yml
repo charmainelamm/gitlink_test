@@ -1,0 +1,8 @@
+---
+dataset:more-users:
+  type: sql
+  name: More Users
+  query: SELECT * FROM USERS
+  description:
+  icon:
+  connection: data_warehouse:redshift-2
