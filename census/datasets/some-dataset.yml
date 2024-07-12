@@ -1,8 +1,0 @@
----
-dataset:some-dataset:
-  type: sql
-  name: some dataset
-  query: select 1 as id
-  description:
-  icon:
-  connection: data_warehouse:redshift-2
