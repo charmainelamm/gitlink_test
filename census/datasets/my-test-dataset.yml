@@ -1,8 +1,0 @@
----
-dataset:my-test-dataset:
-  type: sql
-  name: My test dataset
-  query: Select * from users
-  description:
-  icon:
-  connection: data_warehouse:redshift-2
