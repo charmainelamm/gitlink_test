@@ -1,0 +1,8 @@
+---
+dataset:dataset-through-ui:
+  type: sql
+  name: dataset through UI
+  query: select 1 as id
+  description:
+  icon:
+  connection: data_warehouse:redshift-2
