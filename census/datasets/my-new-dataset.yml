@@ -1,0 +1,8 @@
+---
+dataset:my-new-dataset:
+  type: sql
+  name: my new dataset
+  query: select * from users
+  description:
+  icon:
+  connection: data_warehouse:redshift-2
