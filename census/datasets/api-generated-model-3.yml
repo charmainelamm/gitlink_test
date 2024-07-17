@@ -1,8 +1,8 @@
 ---
 dataset:api-generated-model-3:
   type: sql
-  name: API Generated Model
+  name: API Generated Model updated
   query: SELECT * FROM "users"
-  description: This is a description set through the API.
+  description: This is a description set through the API that is being updated again.
   icon:
   connection: data_warehouse:redshift-2
