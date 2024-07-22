@@ -1,6 +1,7 @@
 ---
 sync:redshift-users-braze-connection-user:
   paused: false
+  label: add a label
   behavior:
     operation: upsert
   mapping_configuration:
